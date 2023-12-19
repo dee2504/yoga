@@ -71,3 +71,17 @@ Project Link: [https://github.com/dee2504/yoga](https://github.com/dee2504/yoga)
 
 ---
 
+## Simplified ER Diagram for the Yoga Class Registration App
+[ User ]
+|------|------|
+| Field        |
+|--------------|
+| name: String |
+| age: Integer |
+| phone: String|
+| batch: String|
+| registrationDate: Timestamp |
+| monthlyPayment: Integer |
+
+
+
