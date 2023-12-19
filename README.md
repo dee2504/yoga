@@ -1,6 +1,4 @@
-Certainly! Below is a template for a README file for your Flutter web application. You can customize this README to fit the specifics of your project.
 
----
 
 # Yoga Class Registration App
 
