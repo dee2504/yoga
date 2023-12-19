@@ -29,7 +29,7 @@ This application is a Flutter web-based solution for registering users for yoga 
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/your_username_/yoga_class_registration.git
+   git clone https://github.com/dee2504/yoga.git
    ```
 2. Navigate to the project directory and install dependencies:
    ```sh
